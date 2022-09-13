@@ -122,7 +122,7 @@ void About(){
          << "|                                     |" << endl
          << "|       Produced on the date of:      |" << endl
          << "|                                     |" << endl
-         << "|   29/08/2022                        |" << endl
+         << "|   13/09/2022                        |" << endl
          << "|                                     |" << endl
          << "|         With the help of:           |" << endl
          << "|                                     |" << endl
@@ -184,6 +184,7 @@ void game (string name)
             
             attempts++;
         }else{
+
             cout << "\nInvalid position, or repeated position. Try again!";
             test = false;
         }
