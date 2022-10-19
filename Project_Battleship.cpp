@@ -199,9 +199,9 @@ void homeMenu(){
     while(option > 0 && option < 3){
 
         system("clear");
-        cout << "1-Jogar\n";
-        cout << "2-Sobre\n";
-        cout << "3-Sair\n";
+        cout << "1-Play\n";
+        cout << "2-About\n";
+        cout << "3-Exit\n";
         cout << "Choose a option and press Enter!\n";
         cin >> option;
 
